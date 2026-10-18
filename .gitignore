@@ -1,0 +1,8 @@
+/proyecto_pp
+*.o
+/historial_facturas.csv
+*.db-journal
+*.db-wal
+*.db-shm
+__pycache__/
+.DS_Store
